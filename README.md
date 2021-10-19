@@ -1,4 +1,4 @@
- ## Olá! Eu sou o Victor!
+ ## Olá, eu sou o Victor!
 
 - 🌱 Estou apredendo python e arduino
 - ⚙️ Estudante de engenharia mecânica e técnico em mecatrônica
