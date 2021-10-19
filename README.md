@@ -1,16 +1,15 @@
-### Hi there 👋
+ ## Olá! Eu sou o Victor!
 
-<!--
-**VicSkl18/VicSkl18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou apredendo python e arduino
+- ⚙️ Estudante de engenharia mecânica e técnico em mecatrônica
+- 📫 Contate-me em meu LinkedIn: https://www.linkedin.com/in/victor-s-teixeira-022a5717b 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href = "https://github.com/VicSkl18">
+      
+</div>      
+  <div align="center">
+  <a href = "https://github.com/VicSkl18">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VicSkl18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicSkl18&layout=compact&langs_count=7&theme=dracula"/>
+</div>
