@@ -1,7 +1,8 @@
  ## Olá, eu sou o Victor!
 
 - 🌱 Estou apredendo python e arduino
-- ⚙️ Estudante de engenharia mecânica e técnico em mecatrônica
+- ⚙️ Estudante de engenharia mecânica
+- 🦾 Técnico em mecatrônica
 - 📫 Contate-me em meu LinkedIn: https://www.linkedin.com/in/victor-s-teixeira-022a5717b 
 
 <div>  
