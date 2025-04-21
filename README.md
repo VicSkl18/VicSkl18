@@ -1,4 +1,4 @@
- ## Olá, eu sou o Victor!
+ ## Hi, I'm Victor!
 
 - 🌱 Python
 - ⚙️ Mechanial engineering
