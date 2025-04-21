@@ -1,7 +1,7 @@
  ## Hi, I'm Victor!
 
 - 🌱 Python
-- ⚙️ Mechanial engineering
+- ⚙️ Mechanical engineering
 - 🦾 Mechatronics technician
 - 📫 Contact me on my LinkedIn: https://www.linkedin.com/in/victor-s-teixeira-022a5717b 
 
